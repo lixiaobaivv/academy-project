@@ -1,5 +1,5 @@
 # academy-project
-该项目为微信公众号 `求学大作战` 后端, 框架采用 `sping-boot` + `mybatis` + `redis` + `shiro` + `mysql` 组合而成.
+该项目为微信公众号 `学渣乐园` 后端, 框架采用 `sping-boot` + `mybatis` + `redis` + `shiro` + `mysql` 组合而成.
 
 API 文档使用`swagger2`生成, 访问地址: `/a/swagger-ui.html`
 
